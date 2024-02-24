@@ -9,7 +9,7 @@ This Python script is designed to automate mouse clicks using the pyautogui libr
 
 2. Run the script:
     ```bash
-    python script_name.py
+    python main.py
     ```
 
 3. Press the 'k' key to toggle the macro on/off.
