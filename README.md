@@ -1,5 +1,5 @@
 ## Description
-This Python script is designed to automate mouse clicks using the pyautogui library. The script includes a toggle functionality triggered by the 'k' key using the pynput library.
+This Python script is designed to automate money-making with the pyautogui module. The script includes a toggle functionality triggered by the 'k' key using the pynput library.
 
 ## Usage
 1. Install the required libraries:
